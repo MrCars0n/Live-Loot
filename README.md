@@ -1,4 +1,5 @@
 # Instagram Post Generator
+<img src="logos/default.png" width="30%">
 
 Automatically creates Instagram-ready **1080×1080px** product posts from resale listing URLs. Fetches the product image, extracts the price, and adds a price badge, site logo, and scannable QR code — all in one command.
 
